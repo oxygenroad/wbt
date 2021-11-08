@@ -1,0 +1,25 @@
+{
+  "name": "blazepod",
+  "version": "1.0.0",
+  "description": "webbluetooth",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oxygenroad/wbt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oxygenroad/wbt/issues"
+  },
+  "homepage": "https://github.com/oxygenroad/wbt#readme"
+}
